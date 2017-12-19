@@ -30,7 +30,7 @@
 <script>
 var base_url="<?=base_url();?>";
 $(function(){
-	console.log('jQuery Ready');
+	console.log('Start git control. Do not forget commit command');
 })
 </script>
 <script src="<?=base_url();?>js/facebook.js"></script>
