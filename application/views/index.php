@@ -28,7 +28,7 @@ $this->load->module('image');
 			<button onclick="alert(123,'success');">ตัวอย่าง Alert Success</button>
 			<button onclick="alert(123,'question');">ตัวอย่าง Alert Question</button>
 			<button onclick="confirm(123);">ตัวอย่าง Alert Confirm</button>
-			<button onclick="getpy()">getPYZ</button>
+			<button onclick="getpy()">getPYZ2</button>
 
 			<hr>
 			<iframe name="editor" id="editor"></iframe>
