@@ -1,0 +1,19 @@
+*{padding:0px;margin:0px;}
+body{font-size:medium;font-family:Tahoma;color:#333;}
+image{max-width:100%;}
+@media (max-width: 800px){
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 640px) {
+
+}
+@media (max-width: 480px) {
+
+}
+@media (max-width: 320px) {
+
+}
+@media (max-width: 240px) {
+}
